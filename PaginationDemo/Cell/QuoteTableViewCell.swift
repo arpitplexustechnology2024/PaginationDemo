@@ -12,3 +12,4 @@ class QuoteTableViewCell: UITableViewCell {
     @IBOutlet weak var contentLabel: UILabel!
 }
 
+
